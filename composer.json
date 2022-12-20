@@ -1,0 +1,19 @@
+{
+    "name": "laravel/optimize",
+    "description": "Optimize - A simple laravel package",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Laravel\\Optimize\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kumar B.",
+            "email": "kumar.b@reliablepbx.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
